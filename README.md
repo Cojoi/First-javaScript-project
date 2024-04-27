@@ -1,1 +1,1 @@
-# First-javaScript-project
+# First-project-with small javaScript
